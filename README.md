@@ -7,7 +7,10 @@
 ### Home Page
 ![SS3](https://github.com/Anjali181/Login-Signup/assets/67496804/7bca7e2d-36dd-4b8d-ab61-21c4b9cd5c11)
 ### Signup Page
-![SS2](https://github.com/Anjali181/Login-Signup/assets/67496804/9e0c4b4e-679c-40b3-b70b-e81abd3ffdda)
+![Singup](https://github.com/Anjali181/Login-Signup/assets/67496804/8cce4011-5fca-453e-9521-ad053c1078d6)
+
+
 ### Login Page
 ![SS1](https://github.com/Anjali181/Login-Signup/assets/67496804/00355a50-ae97-43cd-820b-d6d74e99c7eb)
 
+![SS2](https://github.com/Anjali181/Login-Signup/assets/67496804/06c2a731-1a86-406d-80ad-43d18fcace7c)
